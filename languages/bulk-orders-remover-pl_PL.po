@@ -1,0 +1,135 @@
+# Copyright (C) 2019 bulk-orders-remover
+# This file is distributed under the same license as the bulk-orders-remover package.
+msgid ""
+msgstr ""
+"Project-Id-Version: bulk-orders-remover\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;"
+"_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;"
+"esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 "
+"|| n%100>14) ? 1 : 2);\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.2.3\n"
+"Last-Translator: \n"
+"Language: pl_PL\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: bulk-orders-remover-for-woocommerce.php:137
+msgid "Once Weekly"
+msgstr "Raz na tydzień"
+
+#: bulk-orders-remover-for-woocommerce.php:141
+msgid "Once Yearly"
+msgstr "Raz na rok"
+
+#: classes/Admin_Options.php:81
+msgid "Bulk Orders Remover Settings"
+msgstr "Ustawienia Bulk Orders Remover"
+
+#: classes/Admin_Options.php:81
+msgid "Bulk  Orders Remover"
+msgstr "Bulk Orders Remover"
+
+#: classes/Admin_Options.php:120
+msgid "Settings"
+msgstr "Ustawienia"
+
+#: classes/Admin_Options.php:133
+msgid "Orders filter"
+msgstr "Filtrowanie zamówień"
+
+#: classes/Admin_Options.php:134
+msgid ""
+"Choose  date filter for orders, all orders older than selected value will be "
+"automatically removed."
+msgstr ""
+"Wybierz datę filtrowania zamówień, wszystkie zamówienia starsze niż wybrana "
+"data zostaną usunięte."
+
+#: classes/Admin_Options.php:138
+msgid "Clean orders older than"
+msgstr "Usuń zamówienia starsze niż"
+
+#: classes/Admin_Options.php:142
+msgid "90"
+msgstr ""
+
+#: classes/Admin_Options.php:146
+msgid "Select period"
+msgstr "Wybierz cykl"
+
+#: classes/Admin_Options.php:150
+msgid "Day(s)"
+msgstr "Dzień"
+
+#: classes/Admin_Options.php:151
+msgid "Month(s)"
+msgstr "Miesiąc"
+
+#: classes/Admin_Options.php:152
+msgid "Year(s)"
+msgstr "Rok"
+
+#: classes/Admin_Options.php:160
+msgid "Clean Frequency"
+msgstr "Częstotliwość usuwania zamówień"
+
+#: classes/Admin_Options.php:161
+msgid "How often would you like to automatically remove old orders"
+msgstr "Jak często zamówienia powinny być usuwane automatycznie"
+
+#: classes/Admin_Options.php:165
+msgid "Frequency"
+msgstr "Częstotliwość"
+
+#: classes/Admin_Options.php:169
+msgid "Once a day"
+msgstr "Raz dziennie"
+
+#: classes/Admin_Options.php:170
+msgid "Once a week"
+msgstr "Raz na tydzień"
+
+#: classes/Admin_Options.php:171
+msgid "Once a month"
+msgstr "Raz na miesiąc"
+
+#: classes/Admin_Options.php:172
+msgid "Once a year"
+msgstr "Raz na rok"
+
+#: classes/Admin_Options.php:303
+msgid "Upload an image"
+msgstr "Załaduj obrazek"
+
+#: classes/Admin_Options.php:303
+msgid "Use image"
+msgstr "Użyj obrazek"
+
+#: classes/Admin_Options.php:303
+msgid "Upload new image"
+msgstr "Załaduj nowy obrazek"
+
+#: classes/Admin_Options.php:304
+msgid "Remove image"
+msgstr "Usuń obrazek"
+
+#: classes/Admin_Options.php:354
+msgid "Plugin Settings"
+msgstr "Ustawienia wtyczki"
+
+#: classes/Admin_Options.php:358
+msgid "All"
+msgstr "Wszystkie"
+
+#: classes/Admin_Options.php:370
+msgid "Save Settings"
+msgstr "Zapisz ustawienia"
